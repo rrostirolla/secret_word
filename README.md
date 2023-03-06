@@ -1,3 +1,32 @@
+# Secret Word
+
+### 📝 Descrição
+Site de jogo de adivinhação de palavras.
+
+</br>
+
+### 👨🏻‍💻 Tecnologias utilizadas 
+React </br>
+JavaScript </br>
+CSS </br>
+
+</br>
+
+### 🎴 Imagem do projeto
+
+![secret_word](https://user-images.githubusercontent.com/114628700/223228091-5cc02f20-e3cc-4d9d-a93f-8d9bc295f0db.jpg)
+
+
+
+</br>
+
+### 💻 Acesse o projeto
+https://secret-word-rr.vercel.app/
+
+</br>
+</br>
+</br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
