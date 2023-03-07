@@ -1,7 +1,7 @@
 # Secret Word
 
 ### 📝 Descrição
-Site de jogo de adivinhação de palavras.
+Site responsivo, de jogo de adivinhação de palavras.
 
 </br>
 
