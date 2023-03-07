@@ -14,7 +14,7 @@ CSS </br>
 
 ### 🎴 Imagem do projeto
 
-![secret_word](https://user-images.githubusercontent.com/114628700/223228091-5cc02f20-e3cc-4d9d-a93f-8d9bc295f0db.jpg)
+![secret_word](https://user-images.githubusercontent.com/114628700/223509902-7c568f9d-e1d9-4232-a196-cf980f28def4.jpg)
 
 
 
